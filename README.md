@@ -1,14 +1,14 @@
 # Personal Expense Tracker (Python Project)
 
-## 📖 Project Title
+##  Project Title
 **Personal Expense Tracker using Python**
 
-## 📝 1. Introduction
+##  1. Introduction
 This Python-based Expense Tracker helps users add, view, and manage daily expenses.  
 It also provides total spending and category-wise summaries.  
 The project demonstrates Python basics like lists, dictionaries, loops, and file handling.
 
-## 🎯 2. Objectives
+##  2. Objectives
 - Add daily expenses with date, amount, and category  
 - View all recorded expenses  
 - Calculate total amount spent  
@@ -16,7 +16,7 @@ The project demonstrates Python basics like lists, dictionaries, loops, and file
 - Save and load data using CSV file  
 - Learn Python file handling and modular programming  
 
-## ⚙️ 3. Requirements
+## 3. Requirements
 
 ### Software Requirements
 - Python 3.x  
@@ -31,23 +31,23 @@ The project demonstrates Python basics like lists, dictionaries, loops, and file
 - Lists, loops, dictionaries  
 - Functions and file handling  
 
-## 🧩 4. Features
+##  4. Features
 - Simple menu-driven interface  
 - Add/View expenses  
 - Total spent calculation  
 - Category-wise summary  
 - Save & load using CSV file  
 
-## 🧠 5. Project Flow
+##  5. Project Flow
 Start → Load Data → Show Menu → User Choice → Execute Task → Back to Menu → Exit
 
-## 🗂️ 6. Folder Structure
+##  6. Folder Structure
 Expense-Tracker/  
 │── main.py  
 │── expenses.csv  
 └── README.md  
 
-## 💻 7. How to Run
+##  7. How to Run
 1. Install Python  
 2. Save the code in `main.py`  
 3. Open terminal and run:  
@@ -55,7 +55,7 @@ Expense-Tracker/
 python main.py
 ```
 
-## 🧾 8. Python Code
+##  8. Python Code
 ```
 expenses = []
 
@@ -118,7 +118,7 @@ while True:
         print("Invalid Input")
 ```
 
-## 📊 9. Sample Output
+##  9. Sample Output
 ```
 1. Add Expense
 2. View Expenses
